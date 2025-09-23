@@ -210,11 +210,6 @@ Contributions are welcome! To contribute:
 - Commit your changes.
 - Open a pull request describing your changes.
 
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
