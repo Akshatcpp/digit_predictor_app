@@ -16,9 +16,6 @@ A machine learning-powered web application for recognizing handwritten digits. T
 - [Model Details](#model-details)
 - [Testing](#testing)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
 ---
 
 ## Overview
